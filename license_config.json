@@ -1,0 +1,15 @@
+{
+  "activeKeys": [
+    "RS123",
+    "RESTAURANT-STAFF-DEMO-KEY",
+    "REST-BRANCH-01-ACTIVATE"
+  ],
+  "blacklistedKeys": [
+    "REVOKED-KEY-EXAMPLE-001"
+  ],
+  "latestVersion": "1.0",
+  "minRequiredVersion": "1.0",
+  "isMandatoryUpdate": false,
+  "downloadUrl": "https://github.com/your-username/your-repo/releases/latest",
+  "broadcastMessage": "مرحباً بكم في نظام إدارة طاقم المطعم"
+}
